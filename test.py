@@ -4,7 +4,7 @@ import time
 
 #time.sleep(5)
 time.sleep(0.1)
-mytext= ".. "
+mytext= "Suleiman, The time is ended. "
 myjob = gTTS(text = mytext)
 myjob.save("welcome.mp3")
 playsound("welcome.mp3")
@@ -22,5 +22,5 @@ playsound(audio_file)
 x=5
 z=x+3
 
-print("z : ",z+z)
+print("z : ",z)
 print("hellw")
