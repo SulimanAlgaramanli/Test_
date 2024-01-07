@@ -21,6 +21,5 @@ playsound(audio_file)
 x=1
 #haz
 x=5
-x=7
 z=x+3
 print("z :{z}")
