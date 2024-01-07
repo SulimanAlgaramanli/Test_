@@ -19,7 +19,8 @@ playsound(audio_file)
 '''
 #sal
 #haz
-x=7
+x=2
+
 z=x+3
 print("z :{z}")
-print("hellw")
+print("hello")
