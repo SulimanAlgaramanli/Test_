@@ -20,8 +20,6 @@ playsound(audio_file)
 '''
 
 x=5
-x=2
 z=x+3
 print("z : ",z)
 print("hellw")
-
