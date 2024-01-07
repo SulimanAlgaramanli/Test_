@@ -2,8 +2,9 @@ from gtts import gTTS
 from playsound import playsound
 import time
 
-time.sleep(5)
-mytext= "Suleiman, The time ended... "
+#time.sleep(5)
+time.sleep(0.1)
+mytext= ".. "
 myjob = gTTS(text = mytext)
 myjob.save("welcome.mp3")
 playsound("welcome.mp3")
@@ -20,6 +21,7 @@ playsound(audio_file)
 #sal
 #haz
 x=7
+x=5
 z=x+3
-print("z :{z}")
+print("z : ",z)
 print("hellw")
