@@ -18,9 +18,8 @@ audio_file = "sound.mp3"
 playsound(audio_file)
 '''
 #sal
-x=1
 #haz
-x=5
+x=7
 z=x+3
 print("z :{z}")
 print("hellw")
