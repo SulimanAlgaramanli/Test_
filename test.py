@@ -1,4 +1,3 @@
-
 from gtts import gTTS
 from playsound import playsound
 import time
@@ -19,9 +18,11 @@ audio_file = "sound.mp3"
 playsound(audio_file)
 '''
 
+
 x=5
 x=2
 z=x+3
-print("z : ",z)
+
+print("z : ",z+z)
 print("hellw")
 
