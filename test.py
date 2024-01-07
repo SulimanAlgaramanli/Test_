@@ -17,3 +17,4 @@ audio_file = "sound.mp3"
 # تشغيل الملف الصوتي
 playsound(audio_file)
 '''
+#sal
