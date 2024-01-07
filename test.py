@@ -1,3 +1,5 @@
+
+'''
 from gtts import gTTS
 from playsound import playsound
 import time
@@ -9,7 +11,6 @@ myjob = gTTS(text = mytext)
 myjob.save("welcome.mp3")
 playsound("welcome.mp3")
 
-'''
 from playsound import playsound
 
 # اسم الملف الصوتي الذي تريد تشغيله
@@ -20,7 +21,6 @@ playsound(audio_file)
 '''
 #sal
 #haz
-x=7
 x=5
 z=x+3
 print("z : ",z)
