@@ -20,3 +20,7 @@ playsound(audio_file)
 #sal
 
 #haz
+x=5
+
+z=x+3
+print("z :{z}")
